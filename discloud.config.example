@@ -1,0 +1,9 @@
+NAME=MeuSite
+AVATAR=https://...
+ID=subdomain
+TYPE=site
+MAIN=index.js
+RAM=1024
+AUTORESTART=true
+VERSION=latest
+APT=tools
