@@ -6,4 +6,4 @@ app.get("", (_, res) => res.send({ status: "Online" }))
 
 app.use((_, res) => res.send({ status: "Caminho não encontrado." }))
 
-app.listen(8080, "0.0.0.0", () => console.log("Site Route Online"))
+app.listen(8080, "0.0.0.0", () => console.log("Saphire-Site Online"))
